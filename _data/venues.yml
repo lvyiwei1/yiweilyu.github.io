@@ -1,6 +1,14 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"NAACL":
+  url: https://naacl.org/
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"NeurIPS":
+  url: https://nips.cc/
+  
+"AIES":
+  url: https://www.aies-conference.com/
+  color: "#009f36"
+  
+"ICSE":
+  url: http://www.icse-conferences.org/
+  color: "#9f3600"
