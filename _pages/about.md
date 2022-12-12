@@ -6,7 +6,7 @@ subtitle: <a href='#'>CSE Ph.D. student at University of Michigan</a>. yiweilyu 
 
 profile:
   align: right
-  image: yiwei_pic.jpg
+  image: portrait2.jpeg
   image_circular: false # crops the image to make it circular
   address: >
     <p>3856 Bob Betty and Beyster Building</p>
