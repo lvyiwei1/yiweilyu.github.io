@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am currently a Ph.D. student in Computer Science and Engineering at University of Michigan, co-advised by [Dr. Honglak Lee](https://web.eecs.umich.edu/~honglak/) and [Dr. Todd Hollon](https://medicine.umich.edu/dept/neurosurgery/todd-hollon-md). Previously I received a B.S. in Computer Science and a M.S. in Machine Learning at Carnegie Mellon University, where I was advised by [Dr. Louis-Philippe Morency](https://www.cs.cmu.edu/~morency/).
+I am currently a Ph.D. student in Computer Science and Engineering at University of Michigan, co-advised by [Dr. Honglak Lee](https://web.eecs.umich.edu/~honglak/) and [Dr. Todd Hollon](https://medicine.umich.edu/dept/neurosurgery/todd-hollon-md). Previously I received a B.S. in Computer Science and a M.S. in Machine Learning at Carnegie Mellon University, where I was advised by [Paul Liang](https://www.cs.cmu.edu/~pliang/) and [Dr. Louis-Philippe Morency](https://www.cs.cmu.edu/~morency/).
 
 My research interests are in making machine learning more applicable to the real world, including multimodal machine learning, computer vision and natural language processing. Specifically, I am interested in improving model performance, few-shot generalizations, and model interpretability. 
 
